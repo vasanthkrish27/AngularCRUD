@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "dhashna",
+      "lastName": "moorthi",
+      "email": "dhashnamoorthi@gmail.com",
+      "mobile": "9894269932",
+      "salary": "60000"
+    },
+    {
+      "id": 3,
+      "firstName": "krish",
+      "lastName": "vasanth",
+      "email": "krishvasanth@gmail.com",
+      "mobile": "989456986",
+      "salary": "150000"
+    },
+    {
+      "id": 4,
+      "firstName": "vasanth",
+      "lastName": "krish",
+      "email": "vasanthkrish@gmial.com",
+      "mobile": "989558641",
+      "salary": "85000"
+    },
+    {
+      "id": 5,
+      "firstName": "ganesh",
+      "lastName": "kumar",
+      "email": "ganeshkumar@gmail.com",
+      "mobile": "8984563288",
+      "salary": "2000000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
